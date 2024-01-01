@@ -1,3 +1,4 @@
+[![MasterHead](https://media.giphy.com/media/VrtvDMP4ajo5y/giphy.gif)
 <h1 align="center">Hi 👋, I'm 𝓛 !</h1>
 <h3 align="center">A growing discord bot/ website developer.</h3>
 
