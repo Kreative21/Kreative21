@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/VrtvDMP4ajo5y/giphy.gif)
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhkczMyMGx5MnUxa3ZuY2t6dWJyNjF1Z3ZoZnk2dmZodHEwNW9hbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif)
 <h1 align="center">Hi 👋, I'm 𝓛 !</h1>
 <h3 align="center">A growing discord bot/ website developer.</h3>
 
