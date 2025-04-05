@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kreative21&label=Profile%20views&color=0e75b6&style=flat" alt="kreative21" /> </p>
 
-- 🔭 I’m currently working on **Music Player**
+- 🔭 I’m an **Explorer**
 
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **anime and manga.**
 
-- ⚡ Fun fact **I listen to music while coding**
+- ⚡ Fun fact **I listen to music while programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
