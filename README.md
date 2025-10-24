@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhkczMyMGx5MnUxa3ZuY2t6dWJyNjF1Z3ZoZnk2dmZodHEwNW9hbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif" alt="Header GIF" width="500"/>
-  <h1 align="center">Hi 👋, I'm 𝓛</h1>
+  <h1 align="center">Hi 👋, I'm Ronak</h1>
   <h3 align="center">A growing discord bot, website & Android app developer.</h3>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kreative21&label=Profile%20views&color=0e75b6&style=flat-square" alt="kreative21" />
