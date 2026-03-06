@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kreative21&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=kreative21](https://github-readme-stats-sigma-five.vercel.app/api?username=kreative21&show_icons=true&theme=dracula)&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kreative21&theme=dracula&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kreative21&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
