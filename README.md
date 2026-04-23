@@ -3,14 +3,12 @@
   <!-- HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Hi%20👋,%20I'm%20Ronak&fontSize=48&animation=fadeIn&fontAlignY=35&desc=App%20%7C%20Web%20Developer&descAlignY=60&descAlign=50" />
 
-  <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Android+App+Developer;Discord+Bot+Developer;Kotlin+Enthusiast;Building+Cool+Things+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Web+Developer;Android+App+Developer;Discord+Bot+Developer;Kotlin+Enthusiast;Building+Cool+Things+🚀" />
   </a>
 
   <br/>
 
-  <!-- PROFILE VIEWS -->
   <img src="https://komarev.com/ghpvc/?username=kreative21&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
