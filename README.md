@@ -17,8 +17,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 <div align="center">
 
 🚀 <b>Explorer & Builder</b> <br/>
