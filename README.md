@@ -19,9 +19,9 @@
 
 <div align="center">
 
-| 🚀 | |
+| 🚀 | Climbing steps one at a time |
 |--|--|
-| 🔭 | Building and exploring new ideas |
+| 🔭 | Love exploring new ideas |
 | 🌱 | Learning **Kotlin & Android Development** |
 | 💻 | Creating **Web Apps, Android Apps & Bots** |
 | 🎯 | Focused on performance & clean UI |
