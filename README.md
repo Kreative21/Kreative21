@@ -82,4 +82,4 @@
 ## ⚡ Developer Philosophy
 
 ```text
-Build → Break → Learn → Repeat
+Break → Build → Learn → Repeat
