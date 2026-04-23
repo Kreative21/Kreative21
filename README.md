@@ -17,16 +17,15 @@
 
 ## 👨‍💻 About Me
 
+## 👨‍💻 About Me
+
 <div align="center">
 
-| 🚀 | Climbing steps one at a time |
-|--|--|
-| 🔭 | Love exploring new ideas |
-| 🌱 | Learning **Kotlin & Android Development** |
-| 💻 | Creating **Web Apps, Android Apps & Bots** |
-| 🎯 | Focused on performance & clean UI |
-| 💬 | Ask me about **anime, manga & tech** |
-| ⚡ | Code + Music = Productivity 🎧 |
+🚀 <b>Explorer & Builder</b> <br/>
+💻 <b>Web • Android • Bots</b> <br/>
+🌱 <b>Currently mastering Kotlin</b> <br/>
+🎯 <b>Clean UI • Performance • Simplicity</b> <br/>
+⚡ <b>Powered by Music 🎧</b>
 
 </div>
 
